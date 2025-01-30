@@ -1,4 +1,4 @@
-// no pendings
+//final code
 
 #include <Wire.h>  // library for i2c communication
 #include <Arduino.h>
